@@ -1,0 +1,7 @@
+---------------------------
+Bus Number: 2
+Route: C - E
+Total Seats: 50
+Available Seats: 50
+Seat Price: 500.00
+---------------------------

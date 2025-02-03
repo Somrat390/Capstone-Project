@@ -1,0 +1,6 @@
+
+Ticket ID: 4
+Bus Number: 1
+Seat Number: 1
+Passenger Name: Som
+---------------------------
